@@ -1,5 +1,5 @@
 # hello
-practice thing
+practice thing\n
 Some additions
 here
 bye
